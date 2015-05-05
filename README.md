@@ -1,0 +1,4 @@
+# C4Dummies
+C programs from "C for dummies" 2nd edition
+each examples includes the source code (ending with .c extension) and GCC compiled program version (.exe)
+
